@@ -256,7 +256,12 @@ body {
 .hero-title {
     font-size: 4rem;
     font-weight: 900;
-    font-family: 'Audiowide', cursive;
+    /* font-family: 'Audiowide', cursive; */
+/* font-family: 'Michroma', sans-serif; */
+    font-family: 'Chakra Petch', sans-serif; /* cyberpunk but readable */
+
+    /* font-family: 'Oxanium', sans-serif; */
+
     margin-bottom: 1rem;
     /* text-shadow: 0 0 20px var(--glow-color); */
 }
@@ -429,7 +434,7 @@ section {
 .section-title {
     font-size: 3rem;
     font-weight: 900;
-    font-family: 'Audiowide', cursive;
+    /* font-family: 'Audiowide', cursive; */
     text-align: center;
     margin-bottom: 3rem;
     /* text-shadow: 0 0 15px var(--glow-color); */
